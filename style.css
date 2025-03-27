@@ -74,7 +74,7 @@ body{
     pointer-events: none;
     position: absolute;
     border-radius: 7px;
-    background: #fff;
+    background: #ccd2a6;
     transition: transform 0.25s linear;
     backface-visibility: hidden;
     box-shadow: 0 3px 10px rgba(0,0,0,0.5);
