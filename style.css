@@ -11,13 +11,14 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #67905d;
+    /* background: #67905d; */
+    background: linear-gradient(to right, #5fbca6, #014b39);
 }
 
 .wrapper{
     width: 400px;
     height: 400px;
-    background: #94ac81;
+    background: #6ba895;
     border-radius: 10px;
     box-shadow: 0 10px 15px rgba(0,0,0,0.1);
     padding: 25px;
@@ -74,7 +75,7 @@ body{
     pointer-events: none;
     position: absolute;
     border-radius: 7px;
-    background: #ccd2a6;
+    background: #e3ebeb;
     transition: transform 0.25s linear;
     backface-visibility: hidden;
     box-shadow: 0 3px 10px rgba(0,0,0,0.5);
