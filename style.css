@@ -12,13 +12,15 @@ body{
     justify-content: center;
     min-height: 100vh;
     /* background: #67905d; */
-    background: linear-gradient(to right, #5fbca6, #014b39);
+    /* background: linear-gradient(to right, #5fbca6, #014b39); */
+    background:url("images/bg3.jpg") no-repeat center
+    
 }
 
 .wrapper{
     width: 400px;
     height: 400px;
-    background: #6ba895;
+    background: #eab20a;
     border-radius: 10px;
     box-shadow: 0 10px 15px rgba(0,0,0,0.1);
     padding: 25px;
