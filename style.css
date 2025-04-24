@@ -13,14 +13,14 @@ body{
     min-height: 100vh;
     /* background: #67905d; */
     /* background: linear-gradient(to right, #5fbca6, #014b39); */
-    background:url("images/bg3.jpg") no-repeat center
+    background:url("images/bg4.jpg") no-repeat center
     
 }
 
 .wrapper{
     width: 400px;
     height: 400px;
-    background: #eab20a;
+    background: #ecae69;
     border-radius: 10px;
     box-shadow: 0 10px 15px rgba(0,0,0,0.1);
     padding: 25px;
